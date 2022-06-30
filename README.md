@@ -17,11 +17,11 @@
    <img align="center" alt="Henrique-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Henrique-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Henrique-Saas" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png">
+   <img align="center" alt="Henrique-Bootstrap" height="35" width="40" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png">
    <h2>Next Hard Skills</h2>
    <img align="center" alt="Henrique-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <img align="center" alt="Henrique-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Henrique-Saas" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png">
-   <img align="center" alt="Henrique-Bootstrap" height="35" width="40" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png">
    <img align="center" alt="Henrique-Tailwind" height="30" width="30" src="https://progsoft.net/images/tailwind-css-icon-70187f0341bd945dc65ad050a9a1b8f4fd79b1cf.png">
 </div>
 
